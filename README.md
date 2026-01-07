@@ -9,6 +9,7 @@ This is a repository where all of my completed LeetCode challenges are automatic
 | [0595-big-countries](https://github.com/kjucaitis/leetcode/tree/master/0595-big-countries) |
 | [1148-article-views-i](https://github.com/kjucaitis/leetcode/tree/master/1148-article-views-i) |
 | [1258-article-views-i](https://github.com/kjucaitis/leetcode/tree/master/1258-article-views-i) |
+| [1683-invalid-tweets](https://github.com/kjucaitis/leetcode/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/kjucaitis/leetcode/tree/master/1757-recyclable-and-low-fat-products) |
 | [1827-invalid-tweets](https://github.com/kjucaitis/leetcode/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/kjucaitis/leetcode/tree/master/1908-recyclable-and-low-fat-products) |
